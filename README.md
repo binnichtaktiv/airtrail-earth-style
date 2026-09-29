@@ -1,4 +1,4 @@
-# AirTrail Earth Style
+# [AirTrail](https://github.com/johanohly/AirTrail) Earth Style
 
 I use dark mode a lot, and I personally like maps with a bit more color
 and detail. So I made a custom style for the new basemap feature. It
@@ -15,7 +15,7 @@ clean vector map details (roads, airports, labels) fading in as you zoom.
 
 ## How to use it
 
-1. Open AirTrail's map style settings.
+1. Open [AirTrail](https://github.com/johanohly/AirTrail)'s map style settings.
 2. Paste this file's raw URL into **both** the light and dark map style fields.
 3. Save, then click "Test saved map styles".
 
