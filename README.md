@@ -24,6 +24,6 @@ clean vector map details (roads, airports, labels) fading in as you zoom.
 - Imagery: [NASA GIBS](https://earthdata.nasa.gov/gibs) (Blue Marble)
 - Map data: [OpenFreeMap](https://openfreemap.org) (OpenStreetMap data)
 
-  ## Screenshot
+## Screenshot
 
-  <img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/560af4b9-2633-4638-9890-8e6e051eb70f" />
+<img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/560af4b9-2633-4638-9890-8e6e051eb70f" />
