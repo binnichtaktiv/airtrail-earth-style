@@ -16,7 +16,7 @@ clean vector map details (roads, airports, labels) fading in as you zoom.
 ## How to use it
 
 1. Open [AirTrail](https://github.com/johanohly/AirTrail)'s map style settings.
-2. Paste this file's raw URL into **both** the light and dark map style fields.
+2. Paste this [file's raw URL](https://raw.githubusercontent.com/binnichtaktiv/airtrail-earth-style/refs/heads/main/airtrail-earth-satellite.json) into **both** the light and dark map style fields.
 3. Save, then click "Test saved map styles".
 
 ## Data sources
